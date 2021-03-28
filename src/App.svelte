@@ -9,5 +9,8 @@
     </header>
     <div class="max-w-md mx-auto">
         <TodoList />
+        <div class="text-center">
+            <a target="_blank" class="underline" href="https://github.com/zupaazhai/svelte-todo-list">✨ Github</a>
+        </div>
     </div>
 </div>
